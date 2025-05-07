@@ -1,0 +1,4 @@
+/* Hide version link in Settings */
+a.link.version[href*="github.com/directus/directus/releases"] {
+  display: none !important;
+}
